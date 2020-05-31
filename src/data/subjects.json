@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Lógica de programação",
+        "playlistId": "PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+    },
+
+    {
+        "id": "2",
+        "name": "Desenvolvimento de sistemas",
+        "playlistId": "PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY"
+    },
+
+    {
+        "id": "3",
+        "name": "Programação WEB",
+        "playlistId": "PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
+    },
+
+    {
+        "id": "4",
+        "name": "Desenvolvimento de Dispositivos móveis",
+        "playlistId": "PLxF2lyHGcERApnjQPgeeEIzJJdGurraMW"
+    },
+
+    {
+        "id": "5",
+        "name": "Modelagem de sistemas",
+        "playlistId": "PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9"
+    },
+
+    {
+        "id": "6",
+        "name": "Teste de sistemas",
+        "playlistId": "PLedtsFT8ymsgVCqgLvPiSrfYeGdujcqvv"
+    },
+
+    {
+        "id": "7",
+        "name": "Banco de dados",
+        "playlistId": "PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq"
+    }
+
+]
